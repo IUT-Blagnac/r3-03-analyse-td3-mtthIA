@@ -14,6 +14,10 @@ public class App {
         return "Hello World!";
     }
 
+    public static String salut() {
+        return "Bonjour !";
+    }
+
     public static String hello(String param) {
         return param;
     }
